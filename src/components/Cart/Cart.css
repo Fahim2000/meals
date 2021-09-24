@@ -1,0 +1,9 @@
+.selected-meals {
+  text-align: center;
+}
+.selected-meals h3 {
+  font-size: 28px;
+}
+.dark {
+  font-weight: bold;
+}
